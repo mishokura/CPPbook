@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "c02p01-hello-world.exe (chapter-02\\01-hello-world\\c02p01-hello-world.exe)",
+      "name": "c02p01-hello-world.exe (chapter-02\\01-hello-world\\c02p01-hello-world.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "c02p01-Exercise-3-1.exe (chapter-02\\Exercise-3-1\\c02p01-Exercise-3-1.exe)",
+      "name": "c02p01-Exercise-3-1.exe (chapter-02\\Exercise-3-1\\c02p01-Exercise-3-1.exe)"
+    }
+  ]
+}
