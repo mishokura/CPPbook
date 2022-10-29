@@ -2,3 +2,4 @@
 project ("Murachs C++ book")
 
 add_subdirectory("chapter-02")
+add_subdirectory("chapter-04")

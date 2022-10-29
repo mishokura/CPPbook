@@ -13,6 +13,18 @@
       "project": "CMakeLists.txt",
       "projectTarget": "c02p01-Exercise-3-1.exe (chapter-02\\Exercise-3-1\\c02p01-Exercise-3-1.exe)",
       "name": "c02p01-Exercise-3-1.exe (chapter-02\\Exercise-3-1\\c02p01-Exercise-3-1.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "c04p0-Exercise-4-1.exe (chapter-04\\Exercise-4-1\\c04p0-Exercise-4-1.exe)",
+      "name": "c04p0-Exercise-4-1.exe (chapter-04\\Exercise-4-1\\c04p0-Exercise-4-1.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "c02p0-Exercise-3-1.exe (chapter-02\\Exercise-3-1\\c02p0-Exercise-3-1.exe)",
+      "name": "c02p0-Exercise-3-1.exe (chapter-02\\Exercise-3-1\\c02p0-Exercise-3-1.exe)"
     }
   ]
 }
